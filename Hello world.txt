@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 print("Hello world!")
 print("Hello everybody")
 print("and you!")
 Да епт!
-скока сука можно?
+скока сука можно11?
+
