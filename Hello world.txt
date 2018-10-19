@@ -1,3 +1,7 @@
-print("Hello world!*")
-print("Hello everybody*")
-print("and you!*")
+<<<<<<< HEAD
+print("Hello world!")
+print("Hello everybody")
+print("and you!")
+Да епт!
+скока сука можно11?
+
